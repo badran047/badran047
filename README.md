@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @badran047
 - 👀 I’m interested in Software development and Machine Learning
-- 🌱 I’m currently learning Ruby on Rails, Node.js, Natural Language Processing (NLP)...
+- 🌱 I’m currently learning and working with Ruby on Rails, Node.js, Natural Language Processing (NLP)...
 - 💞️ I’m looking to collaborate on new ideas that can change the world to be better through technology and innovation
 - 📫 How to reach me? [here](https://www.hcodes.me#contact-form)
 
