@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @badran047
+- 👋 Hi, I’m Hasan
 - 👀 I’m interested in Software development and Machine Learning
 - 🌱 I’m currently learning and working with Ruby on Rails, Next.js, Natural Language Processing (NLP)...
 - 💞️ I’m looking to collaborate on new ideas that can change the world to be better through technology and innovation
